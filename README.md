@@ -1,6 +1,6 @@
 # yadocinfo
 
-<img width="780" alt="Imagem puramente promocional" src="development/images/layout-780x435.jpg" />
+<img width="780" alt="Imagem puramente promocional" src="/blob/development/images/layout-780x435.jpg" />
 **Yet Another Document Information** — catalogador local de documentos com extração de conteúdo e geração de descrições por modelos de linguagem.
 
 A ideia é manter um índice pesquisável de documentos heterogêneos sem mover nem alterar os arquivos originais. O yadocinfo registra o diretório-base, o caminho relativo, o nome do arquivo, tamanho, data de modificação e hash SHA-256, além da descrição e dos metadados produzidos durante a interpretação.
