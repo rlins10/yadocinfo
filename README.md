@@ -1,6 +1,6 @@
 # yadocinfo
 
-<img width="780" alt="Imagem puramente promocional" src="/blob/development/images/layout-780x435.jpg" />
+<img width="780" alt="Imagem puramente promocional" src="/images/layout-780x435.jpg" />
 
 **Yet Another Document Information** — catalogador local de documentos com extração de conteúdo e geração de descrições por modelos de linguagem.
 
